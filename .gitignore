@@ -125,3 +125,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.DS_Store
+.idea/vcs.xml
+.idea/prettier.xml
+.idea/modules.xml
+.idea/shopping-list-express.iml
