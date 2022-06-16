@@ -9,7 +9,10 @@ const readDataFromFile = (fileName) => {
 	return JSON.parse(rawData);
 };
 
-const writeDataToFile = () => {};
+const writeDataToFile = () => {
+	const filePath = path.join(__dirname, "");
+	fs.writeFileSync();
+};
 
 module.exports = {
 	readDataFromFile,
