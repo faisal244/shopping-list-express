@@ -130,3 +130,4 @@ dist
 .idea/prettier.xml
 .idea/modules.xml
 .idea/shopping-list-express.iml
+.vscode/settings.json

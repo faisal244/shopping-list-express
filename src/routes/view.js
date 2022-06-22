@@ -1,9 +1,9 @@
 const { Router } = require("express");
 
 const {
-  renderHomePage,
-  renderCreatePage,
-  renderEditPage,
+	renderHomePage,
+	renderCreatePage,
+	renderEditPage,
 } = require("../controllers/views");
 
 const router = Router();
